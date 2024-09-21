@@ -1,7 +1,1 @@
-Txt 1 v2
-Hello word
-This is a second line in the file 
-A new line
-And I'am Peter
-Bug Fixed a work
-Txt some more 2 
+TextFile 1 cleared by Ben 
