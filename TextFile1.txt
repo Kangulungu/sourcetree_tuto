@@ -3,5 +3,5 @@ Hello word
 This is a second line in the file 
 A new line
 And I'am Peter
-
+Bug Fixed
 Txt some more 2 
